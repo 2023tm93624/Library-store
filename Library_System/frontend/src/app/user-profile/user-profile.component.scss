@@ -1,0 +1,23 @@
+.boxWidth{
+    width:50%;
+    padding: 15px 0;
+}
+
+.fieldValues{
+    font-size: 20px;
+}
+
+:host button {
+    width: 49% !important;
+    margin:5px;
+}
+
+.mySelect{
+    width: 91.8%;
+    padding: 10px;
+    margin: 0 0 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    height: 28px;
+}
